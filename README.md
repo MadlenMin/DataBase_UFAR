@@ -1,8 +1,7 @@
 # Hospital Pandemic Management Database System
 
 A relational database project for managing hospital data during infectious disease outbreaks.  
-This system stores patient information, vaccination records, laboratory test results, infection status, risk factors, contact tracing records, and hospital visits. It was implemented in **Microsoft SQL Server / SSMS** using T-SQL. The project script creates the database, tables, indexes, trigger, view, stored procedure, role permissions, sample data, and analytical queries. Based on the uploaded SQL script. fileciteturn2file0
-
+This system stores patient information, vaccination records, laboratory test results, infection status, risk factors, contact tracing records, and hospital visits. It was implemented in **Microsoft SQL Server / SSMS** using T-SQL. The project script creates the database, tables, indexes, trigger, view, stored procedure, role permissions, sample data, and analytical queries. Based on the uploaded SQL script. filecite turn2file0
 ## Project Features
 
 - Patient data management
@@ -146,7 +145,7 @@ SELECT * FROM HighRiskInfected;
 
 ## Data Volume
 
-The script inserts **more than 40 records per table**, satisfying the project requirement for sample data generation. The SQL script uses set-based inserts and generated rows for testing and demonstration. fileciteturn2file0
+The script inserts **more than 40 records per table**, satisfying the project requirement for sample data generation. The SQL script uses set-based inserts and generated rows for testing and demonstration. fileciteturn2file0
 
 ## Project Structure Suggestion
 
